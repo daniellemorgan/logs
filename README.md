@@ -1,2 +1,1 @@
-# logs
-Logs for English 507
+Danielle Morgan
