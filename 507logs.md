@@ -1,3 +1,63 @@
+#Danielle's Annotated Bibliography
+##February 14, 2015
+
+Au, Carmen, Jean-Sebastien Legare, and Reehan Shaikh. "Face Recognition: Robustness of the 'Eigenface' Approach" Quebec: McGill University School of Computer Science and Center for Intelligent Machines. Print. 
+-outlines possible "flaws" or differences in images that could affect facial detection including brightness, patial occlusion, facial tilting, and image noise. 
+-tests varying brightness, noise, and occlusion levels to gauge at what point the algorithm will fail
+Though this article refers to real-life situations, this article provides helpful information that I can apply to my selection of photographs for Wilde's eigenface (for example, gathering many different facial postures and images with varying exposure and noise levels).
+
+Bradski, Gary, and Adrian Kaehler. _Learning OpenCV._ California: O'Reilly Media, 2008. Print. 
+-instructions on intalling, using, and applying OpenCV 
+-provides sample code
+-overview of algorithms for eigenface technique 
+This book provides a basic introduction to using OpenCV. I will use it to set up the program and learn to use it before trying to use Eden's code. 
+
+Eden, Terrence. "Which Painting Do You Look Like? Comparing Faces Using Python and OpenCV" _Terrence Eden's Blog_ shkspr.mobi, 14 Jun. 2014. Web. 14 Jun. 2015.
+-quick overview of coding and building eigenfaces
+-provides code that Eden used to run faces against paintings in the Tate Museum
+I can use Eden's code in order to create Wilde's eigenface. It is also helpful to know that this software is able to pick out faces in artwork.
+
+Gilbert, Elliot L. "Tumult of Images: Wilde, Beardsley, and _Salome._" _Victorian Studies_ 26.2 (1983): 133-59. Web. 14 Feb 2015. 
+-outlines relationship between Beardsley and Wilde
+-engages arguments over whether Beardsley's caricatures are criticisms of Wilde's "feminine nature" or a praise of the autobiographical/caricature elements of the play.
+May help to outline motivations behind the caricatures in the play and the many possible reasons for Beardsley's inclusion of Wilde's face in the illustrations. 
+
+Goldman, Jonathan. _Modernism is the Literature of Celebrity._ Texas: University of Texas Press, 2011. Print. 
+-explores the effect caricatures had on Wilde and his work
+-reveals use of caricature and stereotype in Wilde's written works (specifically _Dorian Gray_)
+This book helps situate my research of visual caricature into a wider context of textual caricature and Wilde's role in the creation of his own persona/celebrity. 
+
+Holland, Vyvyan. _Oscar Wilde: a pictorial biography._ London: Thames and Hudson, 1960. Print. 
+-photographs of Wilde's face (various angles and expressions)
+-popular caricatures of Wilde 
+-textual and pictorial timeline 
+This book provides a linear collection of photographs of Wilde, which I can use to create an eigenface and run it against the illustrated caricatures. It also provides context for famous caricatures.
+
+Lynch, Bohun. _A History of Caricature._ Boston: Little, Brown, and Company, 1927. Web. 14 Feb. 2015. 
+-provides survey of famous caricaturists
+-focuses on the insurgence of caricature in eighteenth century England
+-examples of the type of exaggeration present in caricature (focus on very specific aspects of the face and body)
+This book will help me gain insight into the reasons for Victorian obsession with caricature and will help me pinpoint the specific exaggerations typically applied to caricatures of Wilde. 
+
+Navarre, Joan. "Paul Verlaine and A Platonic Lament: Beardsley's Portrayal of a Parallel Love story in Wilde's Salome." _English Literature in Transition, 1880-1920._ 51.2 (2008):152-63. Web. 14 Feb. 2015. 
+-asserts that Wilde is not caricatured in malice but rather, because his illustrations allude to a relationship between Verlaine and Rimbaud, Beardsley uses caricature to applaud the spirit of Wilde's play. 
+provides an alternate argument for the motivations behind Beardsley's caricatures. I want to gather as many interpretations surrounding these caricatures as possible. 
+
+OpenCV Dev Team. "Face Recognition with OpenCv" _OpenCV._ docs.opencv.org, 21 Apr. 2014. Web. 14 Feb. 2015. 
+-Step-by-step instruction on using OpenCV and creating eigenfaces
+-provides source code (in attached src) for eigenface creation 
+-instructions for cropping/scaling photograph
+These instructions pinpoint important lines within the code and expand on the creation of an eigenface. This will provide a better understanding of Eden's code as I use it to create Wilde's eigenface.
+
+Skelly, Julia. _The Uses of Excess in Visual and Material Culture, 1600-2010._ Surrey: Ashgate Publishing Limited, 2014. Print.
+-focus on Wilde's mouth and teeth in caricatures
+-talks about exaggeration of the shape of Wilde's "Pear-shaped head" (Skelly 142).
+-references to lesser-known caricatures (_A Voluptuary_)
+Skelly's book will provide insight into troubles I might run into because of purposeful exaggerations and deformities present in caricatures.  
+
+Wilde, Oscar. _Salome._ London: J. Lane, 1912. Web. 1 Feb. 2015. 
+I will be using Oscar Wilde's _Salome_ and Aubrey Beardsley's illustrations as my main primary source. 
+
 #Danielle's Revised Thought Piece
 ##February 1, 2015
 
