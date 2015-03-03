@@ -1,3 +1,16 @@
+#Danielle's Abstract
+##March 2, 2015
+
+Where's Wildo?
+
+While Victorian illustration is appreciated for its aesthetic, I want to focus on the emergence of interplay between texts and illustrations in this period, which often unveiled second and sometimes alternate narratives. Aubrey Beardsley's illustrations for Oscar Wilde's _Salome_ not only decoratively enhanced the text but also foregrounded an erotic reading of the play. Scholars also speculate that caricatures of Wilde appear in four instances within Beardsley's illustrations: in the frontispiece, The Face in the Moon, The Eyes of Herod, and The Platonic Lament. Beardsley, Max Beerbohm, and many others also illustrated and published caricatures of Wilde throughout the period. After using Python to create Wilde's eigenface, I will use openCV to run his face against a series of illustrated caricatures in order to determine if facial recognition software can detect faces in illustrations. If this is method proves to be successful it will solidify the argument that Beardsley's illustrations do, in fact, contain caricatures of Wilde. Conversely, this method could be used to spur research opportunities. A specific eigenface could be run against a larger database of illustrations in order to see possible instances of caricature that may not be immediately obvious to the human eye. This method could also uncover possible relationships between illustrators, authors, and other public figures. Using Python and OpenCV, I will help solidify the assumption that Beardsley caricatures Wilde in _Salome_ and hopefully this method provokes research opportunities concerning relationships between other illustrators and authors in the Victorian era.
+
+I know that I will only be able to run Wilde's eigenface against a few images because it takes quite a bit of time to run the software. If I had more time I would love to run it against a huge database of Victorian illustrations and see if it comes up with anything unexpected. 
+
+I am currently having difficulty downloading OpenCV to my computer because I have Yosemite downloaded. Once I figure that out I should be able to continue using Terrence Eden's eigenface creation and run Wilde against his caricatures. 
+
+If I were to write an essay about my findings I could submit it to the Victorian Literature and Culture Journal. 
+
 #Danielle's Annotated Bibliography
 ##February 14, 2015
 
@@ -60,7 +73,6 @@ I will be using Oscar Wilde's _Salome_ and Aubrey Beardsley's illustrations as m
 
 #Danielle's Revised Thought Piece
 ##February 1, 2015
-
 
 The relationship between Oscar Wilde and Aubrey Beardsley recieves a lot of attention as does the interplay between Wilde's _Salome_ and Beardsley's illustrations of it. Scholars speculate that there are four separate caricatures of Wilde incorporated into Beardsley's illustrations. Beardsley also made a few other caricatures of Wilde. It was not, however, exactly novel to create ironic or satirical caricatures of Wilde; these exaggerated images permeated newspapers throughout the Victorian era. I want to solidify assertions that Beardsley's illustrations are caricatures of Wilde and uncover other possible caricatures that may not be entirely obvious to us at first glance. 
 
